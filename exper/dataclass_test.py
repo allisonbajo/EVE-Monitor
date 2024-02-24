@@ -16,9 +16,6 @@ class Blueprint:
         
         return cls(**data)
 
-    # def output(self):
-    #     print(self.name)
-
 
 class Mineral:
     name: str

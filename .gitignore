@@ -1,6 +1,6 @@
 # Project Defined exclusions
 # Directories to exclude
-#data/
+data/
 notes/
 Parser/
 
