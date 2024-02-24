@@ -1,0 +1,112 @@
+{
+  "capacity": 0,
+  "description": "A bulk ore extractor designed for use on Mining Barges and Exhumers.",
+  "dogma_attributes": [
+    {
+      "attribute_id": 161,
+      "value": 25
+    },
+    {
+      "attribute_id": 162,
+      "value": 25
+    },
+    {
+      "attribute_id": 3154,
+      "value": 0
+    },
+    {
+      "attribute_id": 182,
+      "value": 3386
+    },
+    {
+      "attribute_id": 6,
+      "value": 90
+    },
+    {
+      "attribute_id": 422,
+      "value": 1
+    },
+    {
+      "attribute_id": 1768,
+      "value": 11346
+    },
+    {
+      "attribute_id": 9,
+      "value": 40
+    },
+    {
+      "attribute_id": 1298,
+      "value": 463
+    },
+    {
+      "attribute_id": 77,
+      "value": 600
+    },
+    {
+      "attribute_id": 3153,
+      "value": 0
+    },
+    {
+      "attribute_id": 50,
+      "value": 60
+    },
+    {
+      "attribute_id": 1299,
+      "value": 543
+    },
+    {
+      "attribute_id": 4,
+      "value": 0
+    },
+    {
+      "attribute_id": 277,
+      "value": 4
+    },
+    {
+      "attribute_id": 54,
+      "value": 15000
+    },
+    {
+      "attribute_id": 73,
+      "value": 180000
+    },
+    {
+      "attribute_id": 633,
+      "value": 0
+    },
+    {
+      "attribute_id": 38,
+      "value": 0
+    },
+    {
+      "attribute_id": 30,
+      "value": 10
+    }
+  ],
+  "dogma_effects": [
+    {
+      "effect_id": 12,
+      "is_default": false
+    },
+    {
+      "effect_id": 16,
+      "is_default": false
+    },
+    {
+      "effect_id": 67,
+      "is_default": true
+    }
+  ],
+  "graphic_id": 11147,
+  "group_id": 464,
+  "icon_id": 2527,
+  "market_group_id": 1040,
+  "mass": 0,
+  "name": "Strip Miner I",
+  "packaged_volume": 25,
+  "portion_size": 1,
+  "published": true,
+  "radius": 25,
+  "type_id": 17482,
+  "volume": 25
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Strip Miner I Blueprint",
+    "outcome": "Strip Miner I",
+    "output": 1,
+    "materials": {
+        "minerals": [
+            {
+                "type_id": 34,
+                "value": 22197
+            },
+            {
+                "type_id": 35,
+                "value": 17219
+            },
+            {
+                "type_id": 36,
+                "value": 7026
+            },
+            {
+                "type_id": 38,
+                "value": 1216
+            },
+            {
+                "type_id": 40,
+                "value": 476
+            }
+        ]
+    }
+}
